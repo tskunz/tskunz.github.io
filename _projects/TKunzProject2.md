@@ -1,3 +1,13 @@
+---
+layout: page
+title: Project 2 - Frito-Lay Attrition Project
+description: DDS Project 1
+img: assets/img/p2logo.png
+importance: 2
+category: work
+related_publications: 
+---
+
 <!DOCTYPE html>
 
 <html>

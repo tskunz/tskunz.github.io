@@ -1,12 +1,7 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - tskunz
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - tskunz/CaseStudy2DDS
+  - tskunz/DDS6306_Project1
+

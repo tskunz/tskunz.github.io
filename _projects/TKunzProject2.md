@@ -2,8 +2,8 @@
 layout: page
 title: project 2 Frito-Lay Attrition Data
 description: DDS Project 2
-img: assets/img/12.jpg
-importance: 1
+img: assets/img/p2logo.jpg
+importance: 2
 category: work
 related_publications: 
 ---

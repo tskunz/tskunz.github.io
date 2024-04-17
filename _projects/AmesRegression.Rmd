@@ -1,0 +1,11 @@
+---
+layout: page
+title: Project 3 - Ames Home Price Regression
+description: Stats1 Project
+img: assets/img/p2logo.png
+importance: 3
+category: work
+related_publications: 
+---
+
+https://github.com/tskunz/tskunz.github.io/raw/master/_projects/Kunz_Laurel_MSDS6371_Project.pdf
